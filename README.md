@@ -37,4 +37,4 @@ python atm.py
 
 ## 📸 Sample Output
 
-![ATM Screenshot](screenshot(3).png)
+![ATM Screenshot](Screenshot(3).png)
