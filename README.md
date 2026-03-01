@@ -32,3 +32,9 @@ cd mini-atm-system
 ```
 python atm.py
 ```
+
+---
+
+## 📸 Sample Output
+
+![ATM Screenshot](screenshot(3).png)
