@@ -36,6 +36,6 @@ python atm.py
 ---
 
 ## 📸 Sample Output
-![ATM Screenshot](pictures/screenshot.png)
+![ATM Screenshot]("C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-02-28 173843.png")
 
 
